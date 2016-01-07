@@ -5,7 +5,7 @@ title: "2016 Canberra Trip"
 description: "Canberra trip"
 category: photos
 tags: [images, gallery]
-imagefeature: https://c2.staticflickr.com/2/1656/24059594432_989f135b96_b_d.jpg
+imagefeature: https://c2.staticflickr.com/2/1656/24059594432_989f135b96_b.jpg
 comments: true
 mathjax:
 ---
