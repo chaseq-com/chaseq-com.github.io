@@ -21,5 +21,5 @@ Here is an example of what a post with a gallery might look like. If you want to
 	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sheenzhaox/24078068726/in/datetaken/" title="20151226_134840"><img src="https://farm6.staticflickr.com/5769/24078068726_07d7f9c1a1_b.jpg" width="1024" height="576" alt="20151226_134840"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 <figure>
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sheenzhaox/23798146660/in/datetaken/" title="SAM_2186"><img src="https://farm2.staticflickr.com/1656/23798146660_17a027948b_b.jpg" width="1024" height="683" alt="SAM_2186"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a href="https://farm2.staticflickr.com/1656/23798146660_71713ab655_k.jpg"><img src="https://farm2.staticflickr.com/1656/23798146660_71713ab655_k.jpg"></a>
 </figure>
