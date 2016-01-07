@@ -12,14 +12,17 @@ mathjax:
 Here is an example of what a post with a gallery might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
 
 <figure class="third">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sheenzhaox/23512842614/in/datetaken/" title="SAM_1822"><img src="https://farm2.staticflickr.com/1618/23512842614_7cbca5a668_b.jpg" width="1024" height="683" alt="SAM_1822"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sheenzhaox/24087510936/in/datetaken/" title="SAM_1845"><img src="https://farm2.staticflickr.com/1541/24087510936_18e0124491_b.jpg" width="1024" height="683" alt="SAM_1845"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sheenzhaox/23820844650/in/datetaken/" title="IMG_20151226_082114~2"><img src="https://farm2.staticflickr.com/1670/23820844650_d03f8d1d53_b.jpg" width="1024" height="768" alt="IMG_20151226_082114~2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <a href="https://farm2.staticflickr.com/1618/23512842614_8040f5241d_k.jpg"><img src="https://farm2.staticflickr.com/1618/23512842614_8040f5241d_k.jpg"></a>
+    <a href="https://farm2.staticflickr.com/1541/24087510936_4b10450674_k.jpg"><img src="https://farm2.staticflickr.com/1541/24087510936_4b10450674_k.jpg"></a>
+    <a href="https://farm2.staticflickr.com/1670/23820844650_5a830b7cb9_k.jpg"><img src="https://farm2.staticflickr.com/1670/23820844650_5a830b7cb9_k.jpg"></a>
 </figure>
 <figure class="half">
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sheenzhaox/24058182376/in/datetaken/" title="SAM_2002"><img src="https://farm6.staticflickr.com/5631/24058182376_2609629b2c_b.jpg" width="683" height="1024" alt="SAM_2002"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-	<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sheenzhaox/24078068726/in/datetaken/" title="20151226_134840"><img src="https://farm6.staticflickr.com/5769/24078068726_07d7f9c1a1_b.jpg" width="1024" height="576" alt="20151226_134840"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    <a href="https://farm6.staticflickr.com/5631/24058182376_d43418a48f_k.jpg"><img src="https://farm6.staticflickr.com/5631/24058182376_d43418a48f_k.jpg"></a>
+    <a href="https://farm6.staticflickr.com/5769/24078068726_c37a1db5d1_k.jpg"><img src="https://farm6.staticflickr.com/5769/24078068726_c37a1db5d1_k.jpg"></a>
 </figure>
 <figure>
-	<a href="https://farm2.staticflickr.com/1656/23798146660_71713ab655_k.jpg"><img src="https://farm2.staticflickr.com/1656/23798146660_71713ab655_k.jpg"></a>
+    <a href="https://farm2.staticflickr.com/1656/23798146660_71713ab655_k.jpg"><img src="https://farm2.staticflickr.com/1656/23798146660_71713ab655_k.jpg"></a>
 </figure>
+
+
+
