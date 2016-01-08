@@ -1,5 +1,5 @@
 title:            Chase & Ellie
-description:      "Omega: The Coolest Theme for Jekyll"
+description:      "Our family life"
 logo:             omikron.png
 disqus_shortname: chaseq
 # Assign a default image for your site's header and footer
@@ -38,6 +38,19 @@ owner:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:    https://plus.google.com/u/0/102602916593522619858
+
+authors:
+  xin:
+    name: Xin Zhao
+    display_name: sheen
+    gravatar:
+    email: sheen@chaseq.com
+    web:
+  xuxin:
+    name: Xuxin Zhang
+    display_name: effie
+    gravatar:
+    email: effie@chaseq.com
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
